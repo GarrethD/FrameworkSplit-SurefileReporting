@@ -1,0 +1,6 @@
+Reporting\Listeners\AnnotationTransformer.class
+Reporting\ExtentReport\Report.class
+Reporting\ExtentReport\ExtentTestManager.class
+Reporting\Listeners\TestListener.class
+Reporting\ExtentReport\ExtentManager.class
+Reporting\Listeners\Retry.class

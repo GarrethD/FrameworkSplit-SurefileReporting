@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Garreth Dean">
+
+    <test name="Smoke Pack" preserve-order="true">
+        <classes>
+            <class name="Epic.Scenario"/>
+        </classes>
+    </test>
+</suite>

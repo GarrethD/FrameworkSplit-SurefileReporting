@@ -1,0 +1,6 @@
+Utilities\CsvReader\CsvReader.class
+Utilities\PropertiesReader\PropReader.class
+Utilities\AppiumServer\AppiumServer.class
+Utilities\ExcelSheetReader\ExcelDataReader.class
+Utilities\ExcelSheetReader\ExcelFile.class
+Utilities\DateManager\DateTimeCollector.class

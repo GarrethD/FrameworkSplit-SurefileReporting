@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="CoreBuild">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../CoreBuild/out/artifacts/CoreBuild_jar/CoreBuild.jar!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CoreBuild/out/artifacts/CoreBuild_jar/CoreBuild.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
